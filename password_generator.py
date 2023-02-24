@@ -1,6 +1,6 @@
 from random import randint
 #passlen = int(input("Enter length of your password : "))
-passlen = 5
+passlen = 12
 
 alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_" #total elements = 72
 lst = list()
